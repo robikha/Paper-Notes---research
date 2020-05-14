@@ -1,2 +1,2 @@
-# Paper-Notes---research
+# Paper-Notes-research
 Collection of papers and articles
